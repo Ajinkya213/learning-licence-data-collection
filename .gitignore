@@ -1,0 +1,16 @@
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore environment-specific files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore pipenv virtual environment
+Pipfile.lock
